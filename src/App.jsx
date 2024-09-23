@@ -1,8 +1,8 @@
 // App.jsx
 import React, { useState, useEffect } from 'react';
-import ContactForm from './assets/components/ContactForm/ContactForm';
-import SearchBox from './assets/components/SearchBox/SearchBox';
-import ContactList from './assets/components/ContactList/ContactList';
+import ContactForm from './components/ContactForm/ContactForm';
+import SearchBox from './components/SearchBox/SearchBox';
+import ContactList from './components/ContactList/ContactList';
 import './App.css';
 
 function App() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import Contact from '../Contact/Contact';
+import Contact from '../Contact/Contact.jsx';
 import styles from './ContactList.module.css';
 
 function ContactList({ contacts, onDelete }) {
